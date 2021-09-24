@@ -1,0 +1,16 @@
+
+				body {
+						background-color: lightgreen;
+					}
+					h1{
+				     	background-color: blue;
+					}
+					p{
+						color: white;
+					}
+			.abc,h2,h3,h6{
+				color: red;
+				font-family: ;
+				text-decoration: none;
+				padding:10px;				
+			}
